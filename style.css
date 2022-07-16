@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    color: #F8FAFC;
+    font-family: 'Quicksand';
+}
+
+#container {
+    background-image: linear-gradient(#2b2b2b, #494949);
+    width: 700px;
+    margin: 0 auto;
+    padding: 20px 10px;
+}
+
+header img {
+    width: 250px;
+    height: 225px;
+    display: inline-block;
+    margin-right: 20px;
+    vertical-align: top;
+}
+
+#header-content {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#header-title {
+    border-bottom: 3px solid #065F46;
+    padding: 30px 80px 30px 0;
+}
+
+#header-title #title {
+    color: #34D399;
+    font-weight: bold;
+    font-size: 45px;
+}
+
+#header-title #sub-title {
+    color: #F1F5F9;
+    font-weight: bold;
+}
+
+#header-contacts {
+    padding-top: 25px;
+    font-size: 14px;
+}
+
+h2 {
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+h3 {
+    font-size: 18px;
+}
+
+#to-know-me {
+    background-color: #404040;
+}
+
+.main-content {
+    padding: 10px 10px 10px  25px;
+    margin: 10px 0;
+}
+
+.main-content p{
+    margin: 10px 0;
+}
+
+#love-to-use {
+    width: 311px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#projects {
+    width: 311px;
+    display: inline-block;
+    background-image: linear-gradient(135deg, #525252, #404040);
+}
+
+#projects div {
+    margin-top: 25px;
+}
+
+#love-to-use img {
+    width: 55px;
+}
+
+footer {
+    padding: 20px 0 0 160px;
+}
+
+footer img {
+    width: 20px;
+}
+
+footer a{
+    font-size: 14px;
+    vertical-align: top;
+    color: #7DD3FC;
+    margin-right: 8px;
+}
